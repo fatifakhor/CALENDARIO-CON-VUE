@@ -1,0 +1,25 @@
+{
+  "tarea": [
+    {
+      "id": "fbfa6630ecf14ab1a313f9b13a9886a9",
+      "tarea": "holaaa",
+      "fecha": "17/4/2024",
+      "horaInicial": "11:28",
+      "horaFinal": "14:28"
+    },
+    {
+      "id": "f1244806565948dda8d978762ebe89f2",
+      "tarea": "holaa",
+      "fecha": "5/3/2024",
+      "horaInicial": "07:45",
+      "horaFinal": "09:45"
+    },
+    {
+      "id": "5b31c3571bfc49588bf85387225abffa",
+      "tarea": "cumpleeee de antonia",
+      "fecha": "13/3/2024",
+      "horaInicial": "07:45",
+      "horaFinal": "09:46"
+    }
+  ]
+}
